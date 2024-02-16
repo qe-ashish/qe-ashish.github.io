@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>Text </h2>
+<h2>Text hello </h2>
 <p>The <strong>input type="text"</strong> defines a one-line text input field:</p>
 
 <form action="/action_page.php">
